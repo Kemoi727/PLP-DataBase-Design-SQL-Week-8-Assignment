@@ -1,6 +1,7 @@
 Student Records Management System
 
 📌 Description
+
 This project is a relational database designed to manage student information, courses, enrollments, and grades. It provides a structured and scalable way to handle educational institution data.
 
 How to Run/Setup
