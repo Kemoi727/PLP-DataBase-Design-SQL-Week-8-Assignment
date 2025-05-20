@@ -11,8 +11,9 @@ How to Run/Setup
 4. Run the SQL script to create all tables and relationships.
 
 📊 Entity Relationship Diagram (ERD)
-png Attached
+'ERD Diagram School Database.jpg'
 
 📁 Included Files
-- `answer.sql` – SQL script to create all necessary tables and relationships.
-- `README.md` – This documentation.
+- 'answer.sql' – SQL script to create all necessary tables and relationships.
+- 'README.md' – This documentation.
+- 'ERD Diagram School Database.jpg' - ERD Diagram
